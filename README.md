@@ -79,8 +79,8 @@ Channels:
 
 | Lecture | Link | Video | Repo |
 |---------|:-----|:------|:-----|
-| Course Introduction | [Link]() | [Video]() | |
-| Intents & Lifecycle | [Link]() | [Video]() | [Repo]() |
+| Course Introduction | [Link](https://github.com/android-soft-uni/2019-android-development/tree/master/01-course-intro) | [Video](https://www.youtube.com/watch?v=NBhc9Gru5O8) | |
+| Java OOP | [Link](https://github.com/android-soft-uni/2019-android-development/tree/master/02-java-oop) | [Video](https://www.youtube.com/watch?v=JP3iOUCuBbM) | [Repo]() |
 | Views & Layouts | [Link]() | [Video]() | [Repo]() |
 | Recycle View | [Link]() | [Video]() | [Repo]() |
 | Connect to Internet | [Link]() | [Video]() | [Repo]() |
