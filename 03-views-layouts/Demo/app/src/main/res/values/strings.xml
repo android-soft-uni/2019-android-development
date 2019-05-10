@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SoftUniAndroid3</string>
+    <string name="happy_birthday">Happy Birthday123123</string>
+    <string name="quantity">Quantity</string>
+    <string name="price">Price</string>
+    <string name="order">Order</string>
+</resources>
