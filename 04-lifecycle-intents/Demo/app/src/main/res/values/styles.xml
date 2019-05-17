@@ -1,0 +1,29 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="BlueButton" parent="Base.Widget.AppCompat.Button">
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="MyEditTextTheme">
+        <item name="colorControlNormal">#FFFFFF</item>
+        <item name="colorControlActivated">#FFFFFF</item>
+        <item name="colorControlHighlight">#FFFFFF</item>
+        <item name="android:textColor">#FFF</item>
+    </style>
+
+    <style name="MyBtn">
+        <item name="colorAccent">#336688</item>
+        <item name="colorControlNormal">#336688</item>
+        <item name="colorControlActivated">#336688</item>
+        <item name="colorControlHighlight">#336688</item>
+        <item name="android:textColor">#FFF</item>
+    </style>
+</resources>
