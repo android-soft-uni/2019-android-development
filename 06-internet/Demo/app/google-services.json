@@ -1,0 +1,93 @@
+{
+  "project_info": {
+    "project_number": "602100718220",
+    "firebase_url": "https://soft-uni-demo.firebaseio.com",
+    "project_id": "soft-uni-demo",
+    "storage_bucket": "soft-uni-demo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602100718220:android:e19e7f65f9d01aea",
+        "android_client_info": {
+          "package_name": "com.inveitix.a06_internet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "602100718220-d2dobbqdvebh4h03tre42p9h0q7gsbvl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.inveitix.a06_internet",
+            "certificate_hash": "884cb52e4c68f3fa387ab3fe7099d782e0cc4a4b"
+          }
+        },
+        {
+          "client_id": "602100718220-1cl6rbi0l1i1pfqpcildjo8p91b45a0t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5q-uulOQt7TtHyv4EZTQ8TRg5xv9aOS8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "602100718220-1cl6rbi0l1i1pfqpcildjo8p91b45a0t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602100718220:android:7771335d65cdfe58",
+        "android_client_info": {
+          "package_name": "com.softuni.softunidemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "602100718220-ak12j58ptepchsrnb11i7inq5duj8qjk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.softuni.softunidemo",
+            "certificate_hash": "71b913eff50468e606d7c5d9ea042369c1476ebb"
+          }
+        },
+        {
+          "client_id": "602100718220-a7sgkp1fit2ja23hq7vl69nfi536puhf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.softuni.softunidemo",
+            "certificate_hash": "884cb52e4c68f3fa387ab3fe7099d782e0cc4a4b"
+          }
+        },
+        {
+          "client_id": "602100718220-1cl6rbi0l1i1pfqpcildjo8p91b45a0t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5q-uulOQt7TtHyv4EZTQ8TRg5xv9aOS8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "602100718220-1cl6rbi0l1i1pfqpcildjo8p91b45a0t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
