@@ -56,9 +56,12 @@ A project - full-scale Android application, combining a lot of the course materi
 ## Project
 
 Full-scale Android application, combining a lot of the course material.
-The students can choose from two predetermined projects or create their own project. Description is [here](https://github.com/android-soft-uni/2019-android-development/tree/master/Evaluations/Project)
+The students can choose from two predetermined projects or create their own project. Description is [here](https://github.com/android-soft-uni/2019-android-development/tree/master/Evaluations/Project).
+
 The choice has to be made [here](https://forms.gle/6jarZNGvuhouEsiy5) until **23rd of June**.
+
 The projects have to be uploaded to GitHub no later than **4rd of July** and the link to be added in the SoftUni system.
+
 The project defense is on 7th of July. Schedule will be posted on the 5th of July. Online defense is possible.
 
 ## Slack
