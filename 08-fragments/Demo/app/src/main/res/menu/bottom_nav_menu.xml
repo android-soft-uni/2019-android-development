@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/cat_page"
+        android:title="Cats"
+        android:icon="@drawable/ic_assessment_black_24dp"
+        app:showAsAction="always" />
+
+    <item android:id="@+id/dog_page"
+        android:title="Dogs"
+        android:icon="@drawable/ic_group_black_24dp"
+        app:showAsAction="always" />
+
+</menu>
