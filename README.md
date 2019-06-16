@@ -55,7 +55,11 @@ A project - full-scale Android application, combining a lot of the course materi
 
 ## Project
 
-Full-scale Android application, combining a lot of the course material
+Full-scale Android application, combining a lot of the course material.
+The students can choose from two predetermined projects or create their own project. Description is [here] (https://github.com/android-soft-uni/2019-android-development/tree/master/Evaluations/Project)
+The choice has to be made [here](https://forms.gle/6jarZNGvuhouEsiy5) until 23rd of June.
+The projects have to be uploaded to GitHub no later than 4rd of July and the link to be added in the SoftUni system.
+The project defense is on 7th of July. Schedule will be posted on the 5th of July. Online defense is possible.
 
 ## Slack
 
@@ -77,17 +81,17 @@ Channels:
 
 ## Presentations
 
-| Lecture | Link | Video | Repo |
-|---------|:-----|:------|:-----|
-| Course Introduction | [Link](https://github.com/android-soft-uni/2019-android-development/tree/master/01-course-intro) | [Video](https://www.youtube.com/watch?v=NBhc9Gru5O8) | |
-| Java OOP | [Link](https://github.com/android-soft-uni/2019-android-development/tree/master/02-java-oop) | [Video](https://www.youtube.com/watch?v=JP3iOUCuBbM) | [Repo]() |
-| Views & Layouts | [Link]() | [Video]() | [Repo]() |
-| Recycle View | [Link]() | [Video]() | [Repo]() |
-| Connect to Internet | [Link]() | [Video]() | [Repo]() |
-| Preferencies & SQLite | [Link]() | [Video]() | [Repo]() |
-| Background Tasks | [Link]() | [Video]() | [Repo]() |
-| Material Desing & Fragments | [Link]() | [Video]() | [Repo]() |
-| Android Design Patterns | [Link]() | [Video]() | [Repo]() |
+| Lecture | Link | Video |
+|---------|:-----|:------|
+| Course Introduction | [Link](https://github.com/android-soft-uni/2019-android-development/tree/master/01-course-intro) | [Video](https://www.youtube.com/watch?v=NBhc9Gru5O8) |
+| Java OOP | [Link](https://github.com/android-soft-uni/2019-android-development/tree/master/02-java-oop) | [Video](https://www.youtube.com/watch?v=JP3iOUCuBbM) |
+| Views & Layouts | [Link](https://github.com/android-soft-uni/2019-android-development/tree/master/03-views-layouts) | [Video](https://www.youtube.com/watch?v=f9SsFd6YhbI) |
+| Lifecycle and Intents | [Link](https://github.com/android-soft-uni/2019-android-development/tree/master/04-lifecycle-intents) | [Video](https://www.youtube.com/watch?v=EUbn48-tHzQ) |
+| Recycler View | [Link](https://github.com/android-soft-uni/2019-android-development/tree/master/05-recycler-view) | [Video](https://www.youtube.com/watch?v=GKQVNBu0-EY) |
+| Internet Connectivity | [Link](https://github.com/android-soft-uni/2019-android-development/tree/master/06-internet) | [Video](https://www.youtube.com/watch?v=M1AhIyTSoMI) |
+| Storage | [Link](https://github.com/android-soft-uni/2019-android-development/tree/master/07-storage) | [Video](https://www.youtube.com/watch?v=VIwp2w_3Uyk) |
+| Material Desing & Fragments | [Link](https://github.com/android-soft-uni/2019-android-development/tree/master/08-fragments) | [Video](https://www.youtube.com/watch?v=TQLPwy0X2Ng) |
+| Android Architecture and Design Patterns | [Link]() | [Video]() |
 
 ## Tutorials
 
