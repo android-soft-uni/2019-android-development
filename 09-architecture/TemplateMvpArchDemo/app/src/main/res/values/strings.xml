@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Template Android App</string>
+    <string name="dialog_action_ok">OK</string>
+    <string name="dialog_error_title">Sorry</string>
+    <string name="you_will_quit">Exit</string>
+    <string name="are_you_sure">Are you sure?</string>
+    <string name="exit">Exit</string>
+    <string name="close">Close</string>
+</resources>

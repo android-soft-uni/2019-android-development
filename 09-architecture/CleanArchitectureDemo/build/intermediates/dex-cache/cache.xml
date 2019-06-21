@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\teodor.kostadinov\.gradle\caches\modules-2\files-2.1\com.squareup.leakcanary\leakcanary-analyzer\1.3.1\325e7401a7ea16918eb39ba8baad8fd5561a55d3\leakcanary-analyzer-1.3.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="325e7401a7ea16918eb39ba8baad8fd5561a55d3">
+        <dex dex="D:\AndStudioProjects\Android-CleanArchitecture-master\presentation\build\intermediates\pre-dexed\debug\leakcanary-analyzer-1.3.1_671a130521dde6882201de4eea840b0c148ad0ce.jar" />
+    </item>
+    <item
+        jar="D:\AndStudioProjects\Android-CleanArchitecture-master\presentation\build\intermediates\exploded-aar\io.reactivex\rxandroid\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa81bfe8c5cc88c2472ca936ae71f0c3dd1766df">
+        <dex dex="D:\AndStudioProjects\Android-CleanArchitecture-master\presentation\build\intermediates\pre-dexed\debug\io.reactivex-rxandroid-1.0.1_652815534f4e0c0b50bb840da51bbe9592287149.jar" />
+    </item>
+    <item
+        jar="D:\AndStudioProjects\Android-CleanArchitecture-master\presentation\build\intermediates\exploded-aar\com.squareup.leakcanary\leakcanary-android\1.3.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9066b6d4e2536b49e3b58aa301fd925247032df0">
+        <dex dex="D:\AndStudioProjects\Android-CleanArchitecture-master\presentation\build\intermediates\pre-dexed\debug\com.squareup.leakcanary-leakcanary-android-1.3.1_6c0ad0ef24ab6b95b73299fb69473139ab035cc3.jar" />
+    </item>
+    <item
+        jar="C:\Users\teodor.kostadinov\.gradle\caches\modules-2\files-2.1\io.reactivex\rxjava\1.0.14\898f9ab61e2a23afd615f0b0389478bec86f49f9\rxjava-1.0.14.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="898f9ab61e2a23afd615f0b0389478bec86f49f9">
+        <dex dex="D:\AndStudioProjects\Android-CleanArchitecture-master\presentation\build\intermediates\pre-dexed\debug\rxjava-1.0.14_ca4ceff6d4695bfa0b84368742b1f1203691d912.jar" />
+    </item>
+    <item
+        jar="C:\Users\teodor.kostadinov\.gradle\caches\modules-2\files-2.1\com.fernandocejas.frodo\frodo-api\0.8.3\3709f3ceb3fa644bb032a45f327dbbff87635ef3\frodo-api-0.8.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3709f3ceb3fa644bb032a45f327dbbff87635ef3">
+        <dex dex="D:\AndStudioProjects\Android-CleanArchitecture-master\presentation\build\intermediates\pre-dexed\debug\frodo-api-0.8.3_08b617b744d617930fdbf6b9a85fbc32d1fa5dcc.jar" />
+    </item>
+    <item
+        jar="C:\Users\teodor.kostadinov\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="D:\AndStudioProjects\Android-CleanArchitecture-master\presentation\build\intermediates\pre-dexed\debug\javax.inject-1_f1ee875646e655dada1bccabafc4842f8fc64331.jar" />
+    </item>
+    <item
+        jar="C:\Users\teodor.kostadinov\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\7.0.1\d5d13ea991eab0252e3710e5df3d6a9d4b21d461\butterknife-7.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="D:\AndStudioProjects\Android-CleanArchitecture-master\presentation\build\intermediates\pre-dexed\debug\butterknife-7.0.1_652057b0b4af1fa8fef8006059cddaa0ecc48b8f.jar" />
+    </item>
+    <item
+        jar="C:\Users\teodor.kostadinov\.gradle\caches\modules-2\files-2.1\com.squareup.haha\haha\1.3\d2c832f9d14a11c79f58a7ee2e10526a12152c72\haha-1.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d2c832f9d14a11c79f58a7ee2e10526a12152c72">
+        <dex dex="D:\AndStudioProjects\Android-CleanArchitecture-master\presentation\build\intermediates\pre-dexed\debug\haha-1.3_28d261849c6d96db330d20febd1e7f836f7a19fc.jar" />
+    </item>
+    <item
+        jar="D:\AndStudioProjects\Android-CleanArchitecture-master\presentation\build\intermediates\exploded-aar\Android-CleanArchitecture-master\data\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2ba398835dd071516ea70ea8b68e6bd6ebe6f544">
+        <dex dex="D:\AndStudioProjects\Android-CleanArchitecture-master\presentation\build\intermediates\pre-dexed\debug\Android-CleanArchitecture-master-data-unspecified_f288082746df6a60bae9d41e7ae78228bb5f6505.jar" />
+    </item>
+    <item
+        jar="C:\Users\teodor.kostadinov\.gradle\caches\modules-2\files-2.1\com.google.dagger\dagger\2.0.2\de8416eda7b2fd7c25836b140c39e1cbf10542f6\dagger-2.0.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="de8416eda7b2fd7c25836b140c39e1cbf10542f6">
+        <dex dex="D:\AndStudioProjects\Android-CleanArchitecture-master\presentation\build\intermediates\pre-dexed\debug\dagger-2.0.2_d481cd7b27f90127fa57eb3396e246f8b084877e.jar" />
+    </item>
+    <item
+        jar="C:\Users\teodor.kostadinov\.gradle\caches\modules-2\files-2.1\com.squareup.leakcanary\leakcanary-watcher\1.3.1\6904771474c058abfc5912c13d12b02754712165\leakcanary-watcher-1.3.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6904771474c058abfc5912c13d12b02754712165">
+        <dex dex="D:\AndStudioProjects\Android-CleanArchitecture-master\presentation\build\intermediates\pre-dexed\debug\leakcanary-watcher-1.3.1_644bd2486ad4e77180b03997e7f9413cd5e8f7b6.jar" />
+    </item>
+    <item
+        jar="D:\AndStudioProjects\Android-CleanArchitecture-master\presentation\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="D:\AndStudioProjects\Android-CleanArchitecture-master\presentation\build\intermediates\pre-dexed\debug\internal_impl-21.0.3_c3fa1d67106c15bb1d1851b0598a83e6692ee604.jar" />
+    </item>
+    <item
+        jar="C:\Users\teodor.kostadinov\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.5.0\4de2b4ed3445c37ec1720a7d214712e845a24636\okhttp-2.5.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
+        <dex dex="D:\AndStudioProjects\Android-CleanArchitecture-master\presentation\build\intermediates\pre-dexed\debug\okhttp-2.5.0_2e83f5413d88eb00d30688749459a2e15efeb70f.jar" />
+    </item>
+    <item
+        jar="D:\AndStudioProjects\Android-CleanArchitecture-master\presentation\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4b8945fc23a7461c6fdde15753456d64b0a9358b">
+        <dex dex="D:\AndStudioProjects\Android-CleanArchitecture-master\presentation\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-21.0.3_246e1fbadcf2151ed88e587db89b6acebea62321.jar" />
+    </item>
+    <item
+        jar="D:\AndStudioProjects\Android-CleanArchitecture-master\domain\build\libs\domain.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b6803253de54ab6e8c6720f1b6b03cd3261d4964">
+        <dex dex="D:\AndStudioProjects\Android-CleanArchitecture-master\presentation\build\intermediates\pre-dexed\debug\domain_0550c3860c39f44161823f6ab9509fb84b64647e.jar" />
+    </item>
+    <item
+        jar="C:\Users\teodor.kostadinov\.gradle\caches\modules-2\files-2.1\org.aspectj\aspectjrt\1.8.6\a7db7ea5f7bb18a1cbd9f24edd0e666504800be\aspectjrt-1.8.6.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0a7db7ea5f7bb18a1cbd9f24edd0e666504800be">
+        <dex dex="D:\AndStudioProjects\Android-CleanArchitecture-master\presentation\build\intermediates\pre-dexed\debug\aspectjrt-1.8.6_c22f358c53ac2f80e9849569c61543e1dee972e9.jar" />
+    </item>
+    <item
+        jar="D:\AndStudioProjects\Android-CleanArchitecture-master\presentation\build\intermediates\exploded-aar\com.fernandocejas.frodo\frodo-runtime\0.8.3\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="66fad0abfc3f82ed29c6d9ca592893b04dbec94e">
+        <dex dex="D:\AndStudioProjects\Android-CleanArchitecture-master\presentation\build\intermediates\pre-dexed\debug\com.fernandocejas.frodo-frodo-runtime-0.8.3_ea6b04fd04ce7ac5431f005db0526285ce72a851.jar" />
+    </item>
+    <item
+        jar="D:\AndStudioProjects\Android-CleanArchitecture-master\presentation\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="D:\AndStudioProjects\Android-CleanArchitecture-master\presentation\build\intermediates\pre-dexed\debug\com.android.support-support-v4-21.0.3_5619f447f361d8ee01e55df21344b6f547aabd2f.jar" />
+    </item>
+    <item
+        jar="C:\Users\teodor.kostadinov\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="D:\AndStudioProjects\Android-CleanArchitecture-master\presentation\build\intermediates\pre-dexed\debug\okio-1.6.0_a04dd45a4bb22e6472197024e6745b4957a36119.jar" />
+    </item>
+    <item
+        jar="C:\Users\teodor.kostadinov\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3\5fc52c41ef0239d1093a1eb7c3697036183677ce\gson-2.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5fc52c41ef0239d1093a1eb7c3697036183677ce">
+        <dex dex="D:\AndStudioProjects\Android-CleanArchitecture-master\presentation\build\intermediates\pre-dexed\debug\gson-2.3_2ccae790b17b26122210c243c15d0c41de058e7e.jar" />
+    </item>
+    <item
+        jar="C:\Users\teodor.kostadinov\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="D:\AndStudioProjects\Android-CleanArchitecture-master\presentation\build\intermediates\pre-dexed\debug\support-annotations-21.0.3_52c19d2a1b84adbdcd4f1a2c7c2b625fb202f0f4.jar" />
+    </item>
+
+</items>
