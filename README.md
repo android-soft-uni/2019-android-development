@@ -99,7 +99,7 @@ Channels:
 | Internet Connectivity | [Link](https://github.com/android-soft-uni/2019-android-development/tree/master/06-internet) | [Video](https://www.youtube.com/watch?v=M1AhIyTSoMI) |
 | Storage | [Link](https://github.com/android-soft-uni/2019-android-development/tree/master/07-storage) | [Video](https://www.youtube.com/watch?v=VIwp2w_3Uyk) |
 | Material Desing & Fragments | [Link](https://github.com/android-soft-uni/2019-android-development/tree/master/08-fragments) | [Video](https://www.youtube.com/watch?v=TQLPwy0X2Ng) |
-| Android Architecture and Design Patterns | [Link]() | [Video]() |
+| Android Architecture and Design Patterns | [Link](https://github.com/android-soft-uni/2019-android-development/tree/master/09-architecture) | [Video](https://www.youtube.com/watch?v=BB_gEArTurw) |
 
 ## Tutorials
 
