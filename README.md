@@ -7,6 +7,7 @@ __Duration__: May - June 2019
   1. [Links](#links)
   1. [Schedule](#schedule)
   1. [Tutors](#tutors)
+  1. [Results](#results)
   1. [Exam](#exam)
   1. [Slides](#slides)
   1. [Slack](#slack)
@@ -48,6 +49,10 @@ Web and Android Scholarship Program: [Link](https://www.udacity.com/google-schol
 
 I have been working professionally in IT since 2013. A lot has happened since then.
 
+## Results
+
+All results - from homeworks, homework grading, exams and projects can be found [at this link] (https://docs.google.com/spreadsheets/d/1MLPpCpaPs5Jwq2gAUalslhVsg2SdSFczNu-2UXD4Rns/edit?usp=sharing).
+
 ## Exam
 
 6 hours
@@ -62,7 +67,7 @@ The choice has to be made [here](https://forms.gle/6jarZNGvuhouEsiy5) until **23
 
 The projects have to be uploaded to GitHub no later than **4rd of July** and the link to be added in the SoftUni system.
 
-The project defense is on 7th of July. Schedule will be posted on the 5th of July. Online defense is possible.
+The project defense is on 7th of July. It starts at 9:00 AM with all the participants. Online attendees can join at [this link] (https://hangouts.google.com/call/QggVn4ETFShAKUoZDR97AEEI). They should be prepared to share their screen.
 
 ## Slack
 
