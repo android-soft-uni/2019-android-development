@@ -77,7 +77,7 @@ Registration: [Create a new account](https://join.slack.com/t/android-soft-uni/s
 
 Channels:
 
-`#announcements` - This channel is for workspace-wide communication and announcements. All members are in this channel.
+`#announcements` - This channel is for workspace-wide communication and announcements. All members are in this channel. This channel is for learning new and basics things.
 
 `#introductions` - Introduce yourself to the community
 
